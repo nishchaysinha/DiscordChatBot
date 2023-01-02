@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import openai
 
-openai.api_key = "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"
+openai.api_key = "BRUH"
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -28,4 +28,4 @@ n=1,stop=None,temperature=0.7)
 
     await message.channel.send(response)
 
-client.run("NzkwNDAxMjY4MTE1MzA4NTg2.GS7VQM.L8GdfV-WMKAav6kuDCBun5BjKTSmVZjZ33Yzrw")
+client.run("BRUH")
